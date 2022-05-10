@@ -1,4 +1,4 @@
-# InterviewGuidance
+# Interview Tips
 
 ## Give breif answers for behavorial questions. 
 - This time will be better spent solving the coding problem
