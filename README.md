@@ -9,4 +9,4 @@
 
 
 ## Write Clean Code
-- [Typescript](https://github.com/labs42io/clean-code-typescript)
+- [Clean Code Book in Typescript](https://labs42io.github.io/clean-code-typescript/)
