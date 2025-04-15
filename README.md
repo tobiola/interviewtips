@@ -1,4 +1,14 @@
-# Interview Tips
+# Creating a Resume
+Your resume is typically your first impression, and recruiters often spend very little time looking at each one. Knowing this, the goal of your resume should be "how can I make the best impression within the first few moments of viewing my resume?"
+
+Overall Tips
+- Keep your resume to a single page
+- Focus on the impact of your work
+- Use metrics when possible
+- Highlight hands on experience
+- Create an aesthetic resume
+
+# During a Coding Interview
 
 ## Give breif answers for behavorial questions. 
 - This will give you more time for the coding question
